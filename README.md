@@ -4,7 +4,7 @@ This bundle will fix the file paths in links to your IDE when using a VM. See ht
 ### Step 1: Download using composer
 
 ``` bash
-$ php composer.phar require vincecore/ide-link-bundle "dev-master"
+$ php composer.phar require vincecore/ide-link-bundle "dev-master" --dev
 ```
 
 Composer will install the bundle to your project's `vendor/vincecore` directory.
